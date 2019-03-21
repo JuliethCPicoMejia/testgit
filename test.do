@@ -34,6 +34,11 @@ cpivin(numlist)                ///
 ]
 
 
-gtsd check peb
-if ("`pause'" == "pause") pause on
+
+if ("`pause'" == "pau") pause on
 else                      pause off
+
+end
+
+exit
+
