@@ -40,5 +40,4 @@ else                      pause off
 
 end
 
-exit
 
