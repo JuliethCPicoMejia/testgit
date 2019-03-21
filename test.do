@@ -35,7 +35,7 @@ cpivin(numlist)                ///
 
 
 sysuse auto, clear
-
+sum price
 
 if ("`pause'" == "pau") pause on
 else                      pause off
