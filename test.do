@@ -33,12 +33,13 @@ noEXcel                        ///
 cpivin(numlist)                ///
 ]
 
-
 sysuse auto, clear
 sum price
 
 if ("`pause'" == "pau") pause on
 else                      pause off
+
+reg mpg 123445quies
 
 end
 
